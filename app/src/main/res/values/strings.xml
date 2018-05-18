@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Alexandria Tour Guide</string>
+
+    <string name="bibliotheca_add">The Royal Library of Alexandria or Ancient Library of Alexandria in Alexandria, Egypt, was one of the largest and most significant libraries of the ancient world. It was dedicated to the Muses, the nine goddesses of the arts.
+
+Address: Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi, Alexandria Governorate 21526</string>
+    <string name="bibliotheca_name">Bibliotheca Alexandrina</string>
+
+    <string name="maamoura_add">El Maamora Beach is a popular beach in the neighborhood of El Maamora in Alexandria, Egypt. It is located east of Montaza\'s royal gardens, and administrated by both the Governorate of Alexandria and the El Maamora Housing and Construction company. It is considered one of the main tourist attractions in Alexandria for its beach and parks.</string>
+    <string name="maamoura_name">Mamoura Beach</string>
+
+    <string name="montazah_add">Montaza Palace is a palace, museum and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea.
+
+Address: Al Mandarah Bahri, Qism El-Montaza, Alexandria Governorate</string>
+    <string name="montazah_name">Montazah Palace</string>
+
+    <string name="planetarium_add">The Planetarium Science Center is a department in the Bibliotheca Alexandrina in Alexandria, Egypt. It promotes the concept of science centers as an educational tool.
+
+Address: El-Gaish Rd, Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi, Alexandria Governorate</string>
+
+    <string name="planetarium_name">Planetarium Science Center</string>
+
+    <string name="qaitbay_add">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa\'it Bay
+
+Address: As Sayalah Sharq, Qesm Al Gomrok, Alexandria Governorate</string>
+    <string name="qaitbay_name">Citadel of Qaitbay</string>
+
+    <string name="san_add">San Stefano Grand Plaza is a structural complex including a Four Seasons hotel, apartments, offices, a shopping mall and a marina in Alexandria, Egypt. It was designed by WZMH Architects.
+
+Address: 399 El Geish Road, Alexandria Governorate</string>
+    <string name="san_name">San Stefano Grand Plaza </string>
+
+    <string name="stanely_add">It is the first bridge in Egypt to be constructed into the sea , with total length of 400 m. Considered of 6 spans , It constitute amajor part of the reconstruction and decoration of Alexandria cornich . A master piece of architectureal precision, the bridge preserves the architectural style of the famous and cosmopolitan Egyptian city.
+
+Address: Stanley Bridge, Fleming, Qism Sidi Gabir, Alexandria Governorate</string>
+    <string name="stanely_name">Stanley Bridge</string>
+
+    <string name="carlos_add">Address: El Guish Rd.، SIDI GABER، Qism Sidi Gabir, Alexandria Governorate</string>
+    <string name="carlos_name">Carlos</string>
+
+    <string name="costa_add">Address: 399 El-Gaish Rd, Qism El-Raml, Alexandria Governorate</string>
+    <string name="costa_name">COSTA</string>
+
+    <string name="pablo_add">Address: El-Gaish Rd, San Stifano, Qism El-Raml, Alexandria Governorate</string>
+    <string name="pablo_name">PABLO</string>
+
+    <string name="roastery_add">Address: 48 Fouad, Al Mesallah Sharq, Qesm Al Attarin, Alexandria Governorate</string>
+    <string name="roastery_name">Roastery</string>
+
+    <string name="star_add">Address: San Stephano Mall, Alexandria</string>
+    <string name="star_name">STARBUCKS CAFFEE</string>
+
+    <string name="zanilli_add">Address: Montaza Palace Gardens، Al Mandarah Bahri, Qism El-Montaza, Alexandria Governorate</string>
+    <string name="zanilli_name">Zanilli\'s</string>
+
+    <string name="euclid_name">Euclid</string>
+    <string name="euclid_add">Euclid (/ˈjuːklɪd/; Greek: Εὐκλείδης Eukleidēs [eu̯.klěː.dɛːs]; fl. 300 BC), sometimes given the name Euclid of Alexandria to distinguish him from Euclides of Megara, was a Greek mathematician, often referred to as the "founder of geometry" or the "father of geometry". He was active in Alexandria during the reign of Ptolemy I (323–283 BC). His Elements is one of the most influential works in the history of mathematics, serving as the main textbook for teaching mathematics (especially geometry) from the time of its publication until the late 19th or early 20th century. In the Elements, Euclid deduced the theorems of what is now called Euclidean geometry from a small set of axioms. Euclid also wrote works on perspective, conic sections, spherical geometry, number theory, and rigor.
+
+Euclid is the anglicized version of the Greek name Εὐκλείδης, which means "renowned, glorious".</string>
+
+    <string name="hypatia_name">Hypatia</string>
+    <string name="hypatia_add">Hypatia[a] (born c. 350–370; died 415 AD) was a Hellenistic Neoplatonist philosopher, astronomer, and mathematician, who lived in Alexandria, Egypt, then part of the Eastern Roman Empire. She was the head of the Neoplatonic school at Alexandria, where she taught philosophy and astronomy. She is the first female mathematician whose life is reasonably well recorded.
+
+Hypatia was renowned in her own lifetime as a great teacher and a wise counselor. Although no writings directly written by her have survived, it is thought that she may have edited the surviving text of Ptolemy\'s Almagest and possibly co-written some of the commentaries attributed to her father, Theon of Alexandria. She also wrote a commentary on Diophantus\'s thirteen-volume Arithmetica, which may survive in part, having been interpolated into Diophantus\'s original text, and another commentary on Apollonius of Perga\'s treatise on conic sections, which has not survived. She is known to have constructed astrolabes and hydrometers, but did not invent either of these, which were both in use long before she was born. Although she herself was a pagan, she was tolerant towards Christians and taught many Christian students, including Synesius, the future bishop of Ptolemais. Towards the end of her life, Hypatia advised Orestes, the Roman prefect of Alexandria, who was in the midst of a feud with Cyril, the bishop of Alexandria. Rumors spread accusing her of preventing Orestes from reconciling with Cyril and, in March 415 AD, she was murdered by a mob of Christian monks known as the parabalani under the leadership of a lector named Peter.
+
+Hypatia's death shocked the empire and transformed her into a "martyr for philosophy", leading future Neoplatonists such as Damascius to become increasingly fervent in their opposition to Christianity. During the Middle Ages, Hypatia was co-opted as a symbol of Christian virtue and scholars believe she was part of the basis for the legend of Saint Catherine of Alexandria. During the Age of Enlightenment, she became a symbol of opposition to Catholicism. In the nineteenth century, European literature, especially Charles Kingsley's 1853 novel Hypatia, romanticized her as "the last of the Hellenes". In the twentieth century, Hypatia became seen as an icon for women's rights and a precursor to the feminist movement. Since the late twentieth century, some portrayals have associated Hypatia's death with the burning of the Library of Alexandria, despite the historical fact that the library no longer existed during Hypatia's lifetime.</string>
+
+    <string name="ptolemy_name">Ptolemy</string>
+    <string name="ptolemy_add">Claudius Ptolemy (/ˈtɒləmi/; Greek: Κλαύδιος Πτολεμαῖος, Klaúdios Ptolemaîos [kláwdios ptolɛmɛ́ːos]; Latin: Claudius Ptolemaeus; c. AD 100 – c. 170) was a Greco-Roman mathematician, astronomer, geographer, astrologer, and poet of a single epigram in the Greek Anthology. He lived in the city of Alexandria in the Roman province of Egypt, wrote in Koine Greek, and held Roman citizenship. The 14th-century astronomer Theodore Meliteniotes gave his birthplace as the prominent Greek city Ptolemais Hermiou (Greek: Πτολεμαΐς ‘Ερμείου) in the Thebaid (Greek: Θηβαΐδα [Θηβαΐς]). This attestation is quite late, however, and, according to Gerald Toomer, the translator of his Almagest into English, there is no reason to suppose he ever lived anywhere other than Alexandria. He died there around AD 168.
+
+Ptolemy wrote several scientific treatises, three of which were of importance to later Byzantine, Islamic and European science. The first is the astronomical treatise now known as the Almagest, although it was originally entitled the Mathematical Treatise (Μαθηματικὴ Σύνταξις, Mathēmatikē Syntaxis) and then known as the Great Treatise (Ἡ Μεγάλη Σύνταξις, Hē Megálē Syntaxis). The second is the Geography, which is a thorough discussion of the geographic knowledge of the Greco-Roman world. The third is the astrological treatise in which he attempted to adapt horoscopic astrology to the Aristotelian natural philosophy of his day. This is sometimes known as the Apotelesmatika (Ἀποτελεσματικά) but more commonly known as the Tetrabiblos from the Greek (Τετράβιβλος) meaning "Four Books" or by the Latin Quadripartitum.</string>
+
+    <string name="history_name">History</string>
+    <string name="history_add">The history of Alexandria dates back to the city\'s founding, by Alexander the Great, in 331 BC. Yet, before that, there were some big port cities just east of Alexandria, at the western edge of what is now Abu Qir Bay. The Canopic (westernmost) branch of the Nile Delta still existed at that time, and was widely used for shipping.
+
+After its foundation, Alexandria became the seat of the Ptolemaic Kingdom, and quickly grew to be one of the greatest cities of the Hellenistic world. Only Rome, which gained control of Egypt in 30 BC, eclipsed Alexandria in size and wealth.
+
+The city fell to the Arabs in AD 641, and a new capital of Egypt, Fustat, was founded on the Nile. After Alexandria's status as the country's capital ended, it fell into a long decline, which by the late Ottoman period, had seen it reduced to little more than a small fishing village. The French army under Napoleon captured the city in 1798 and the British soon captured it from the French, retaining Alexandria within their sphere of influence for 150 years. The city grew in the early 19th century under the industrialization program of Mohammad Ali, the viceroy of Egypt.</string>
+
+    <string name="attractions">Places</string>
+    <string name="cafes">Cafes</string>
+    <string name="famous">Famous</string>
+    <string name="about_name">About</string>
+    <string name="about_add">This app is a tour guide to give you enough information about Alexandria, its history, famous people who lives
+there, attractions, and cafes.</string>
+    <string name="history">History</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
